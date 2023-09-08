@@ -1,4 +1,4 @@
-import { Button, Checkbox, Modal, Switch, createStyles } from "@mantine/core";
+import { Button, Checkbox, Modal, Switch } from "@mantine/core";
 import { useDisclosure } from '@mantine/hooks';
 
 function App() {
