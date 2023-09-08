@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mantine-Switch-label {
+  @apply text-gray-50;
+  @apply text-base;
+}
